@@ -20,30 +20,30 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
-   R:
+   R:Significa que antes de desarrollar el software se analizan las necesidades del cliente y se elabora un plan al detalle que guía todas las etapas del proceso.
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 
-   R:
+   R:Permite estimar tiempos y costos, organizar el trabajo y hacer que el desarrollo sea más predecible y controlado.
 
 4. ¿Qué críticas se hacen a los modelos tradicionales de desarrollo?
 
-   R:
+   R: Que son poco flexibles, tienen poca interacción con el cliente y los errores de etapas iniciales pueden trasladarse a las etapas posteriores.
 
 5. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
-   R: 
+   R: Porque cada enfoque tiene ventajas y combinarlos permite adaptarse mejor a diferentes tipos de proyectos y contextos.
 
 
 ### Actividad 2
 
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
-| Análisis                      |             |
-| Diseño                        |             |
-| Codificación                  |             |
-| Prueba                        |             |
-| Puesta en marcha / Despliegue |             |
+| Análisis                      | Porque cada enfoque tiene ventajas y combinarlos permite adaptarse mejor a diferentes tipos de proyectos y contextos.|
+| Diseño                        | Se define cómo se va a construir el sistema, estableciendo la arquitectura. |
+| Codificación                  | Se desarrolla el software escribiendo el código según el diseño definido. |
+| Prueba                        | Se detectan errores y fallos en el sistema antes de su uso real.|
+| Puesta en marcha / Despliegue | Se instala el sistema en el entorno del cliente y se capacita a los usuarios para su uso. |
 
 
 * Luego responda:
