@@ -92,7 +92,9 @@ Complete la siguiente tabla.
 
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
+    R: El espiral, porque al principio pasa por todas las etapas muy por encima y ahí se descartan errores y luego va profundizando
   - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
+    R: El de prototipos porque a medida que vamos dandelo versiones el usuario te va corrigiendo lo que le parece y lo que no 
     
 ### Actividad 5 – Caso práctico
 Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
@@ -107,19 +109,24 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 
 - ¿Qué modelo de desarrollo recomendaría? 
 
-  R: 
+  R: Cascada
 - Justifique su respuesta.
 
-  R:
+  R: Porque al ser un proyecto pequeño y tener toos los requerimientos claros es el mas compatible con la situacion comentada 
 - ¿Qué etapas principales tendría el desarrollo?
 
-  R:
+  R:IR (Ingenieria de requerimientos)
+    diseño
+    codificacion
+    pruebas
+    lanzamiento
+    
 
 ### Actividad 7 – Verdadero o Falso
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
 
 1. [ ] El modelo en cascada permite cambios constantes en los requerimientos.
-2. [ ] El modelo incremental entrega el sistema en varias versiones.
-3. [ ] Un prototipo se utiliza para comprender mejor los requerimientos.
-4. [ ] El modelo RAD busca reducir los tiempos de desarrollo.
-5. [ ] El modelo en espiral incorpora el análisis de riesgos.
+2. [x] El modelo incremental entrega el sistema en varias versiones.
+3. [x] Un prototipo se utiliza para comprender mejor los requerimientos.
+4. [x] El modelo RAD busca reducir los tiempos de desarrollo.
+5. [x] El modelo en espiral incorpora el análisis de riesgos.
