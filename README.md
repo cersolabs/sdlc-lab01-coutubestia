@@ -49,13 +49,13 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 * Luego responda:
   * ¿En qué etapa se obtienen los requerimientos del sistema?
     
-    R:
+    R:En la etapa de análisis, donde se realiza el seguimiento de las necesidades del usuario y del sistema.
   * ¿En qué etapa se construye el programa?
 
-    R:
+    R:En la etapa de codificacion, ya que ya tenemos las necesidades del sistema y su di diseño hecho
   * ¿Cuál es el objetivo principal de las pruebas?
     
-    R:
+    R:El objetivo es descartar errores antes de el lanzamiento
 ### Actividad 3
 Ordene las siguientes etapas según corresponda  Diseño
 -al modelo lineal secuencial:
@@ -65,24 +65,30 @@ Ordene las siguientes etapas según corresponda  Diseño
 - Despliegue
 - Ingeniería de requerimientos
 ---
-R:
+R: -IR
+   -Diseño
+   -Codificacion
+   -Prueba
+   -Despliegue
+   ---
 
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R:
+    R:Si hay un error en la etapa inicial lo mas seguro es que ese error se arrastre a las siguientes etapas
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
-    R:
+    R:Porque es mas que nada un modelo rigido si ocurre un cambio o una peticion del cliente cuando ya se inicio el proceso es muy dificil cambiarlo
+    
 ### Actividad 4
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     |                          |                        |
-| Incremental |                          |                        |
-| Prototipos  |                          |                        |
-| Espiral     |                          |                        |
-| RAD         |                          |                        |
+| Cascada     | Proceso secuencial con etapas definidas|Proyectos sencillos con exigencias minimas|
+| Incremental |Desarrollo en versiones funcionales |Proyectos grandes o que requieren entregas parciales |
+| Prototipos  |Creación de una versión preliminar |Cuando los requerimientos no están claros |
+| Espiral     |Desarrollo con análisis de riesgos |Proyectos complejos o con alta incertidumbre |
+| RAD         |Desarrollo rápido con herramientas |Cuando se requiere rapidez en la entrega |
 
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
